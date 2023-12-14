@@ -1,0 +1,1504 @@
+[Thu May 25 00:18:57 2023] ThreadID[31196]	Start Program.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Crate
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Health
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Barrier_Large.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/BearTrap_Open.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/BrickWall_1.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Container_Small.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Crate.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Debris_Pile.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/GasCan.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Health.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Landmine.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Structure_1.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Tank.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[ERROR]	H2B Not Found: ../Models/Tree_3.h2b
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:18:57 2023] ThreadID[31196]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:19:13 2023] ThreadID[50396]	Start Program.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Crate
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Health
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Barrier_Large.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/BearTrap_Open.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/BrickWall_1.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Container_Small.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Crate.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Debris_Pile.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/GasCan.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Health.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Landmine.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Structure_1.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Tank.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[ERROR]	H2B Not Found: ../Models/Tree_3.h2b
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[WARNING]	Loading will continue but model(s) are missing.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:19:13 2023] ThreadID[50396]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:19:45 2023] ThreadID[12536]	Start Program.
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Crate
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Health
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:19:45 2023] ThreadID[12536]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:20:32 2023] ThreadID[46528]	Start Program.
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Crate
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Health
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:20:32 2023] ThreadID[46528]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:20:41 2023] ThreadID[46528]	Start Program.
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X 3.046300 Y 6.798300 Z -5.309300
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -8.336300 Y 0.000000 Z -14.335000
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.474900 Y 2.144600 Z 1.027900
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Health
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.470400 Y 3.043800 Z 1.012100
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.905000 Y -0.054800 Z -4.646000
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.421000 Y 0.000000 Z 1.075400
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -9.167000 Y 0.012500 Z -15.221900
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -3.370200 Y 2.118200 Z 1.218500
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.440800 Y 1.963800 Z -3.084700
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -12.442400 Y -1.862100 Z -1.240400
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.510600 Y 2.113700 Z 1.107800
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.421000 Y 0.000000 Z 3.148600
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.002
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.421000 Y 0.000000 Z 5.130900
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.003
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.421000 Y 0.000000 Z -0.948500
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.004
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.421000 Y 0.000000 Z -2.930700
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.005
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -1.390200 Y 0.000000 Z 1.097600
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.006
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -3.372500 Y 0.000000 Z 1.098800
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.007
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -9.451800 Y 0.000000 Z 1.102500
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.008
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -7.469600 Y 0.000000 Z 1.101300
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Tree_3.002
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -12.779700 Y -1.862100 Z 6.499800
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -7.488700 Y 2.118200 Z 1.218500
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.362800 Y 2.118200 Z 3.253000
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine.003
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.362800 Y 2.118200 Z -0.671200
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Tank.002
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.440800 Y 1.963800 Z 5.287100
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Tank.003
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -9.625700 Y 1.963800 Z 1.011400
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Tank.004
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -1.255900 Y 1.963800 Z 1.191000
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -5.905000 Y -0.054800 Z 8.200800
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large.003
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X 0.512700 Y -0.054800 Z 2.049700
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large.004
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -12.322600 Y -0.054800 Z 1.505100
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Tree_3.003
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -3.600300 Y -1.862100 Z 6.499800
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Model Detected: Tree_3.004
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -3.263100 Y -1.862100 Z -1.240400
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -6.029200 Y 15.617800 Z 0.409200
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	Location: X -19.005800 Y 6.798300 Z 5.638700
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:20:41 2023] ThreadID[46528]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:20:43 2023] ThreadID[46528]	Start Program.
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Crate
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Health
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:20:43 2023] ThreadID[46528]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:43:12 2023] ThreadID[9584]	Start Program.
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Crate
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Health
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:43:12 2023] ThreadID[9584]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:44:39 2023] ThreadID[48352]	Start Program.
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Crate
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Health
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:44:39 2023] ThreadID[48352]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:48:49 2023] ThreadID[5332]	Start Program.
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Crate
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Health
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:48:49 2023] ThreadID[5332]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:49:34 2023] ThreadID[18564]	Start Program.
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Crate
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Health
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:49:34 2023] ThreadID[18564]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:50:08 2023] ThreadID[18564]	Start Program.
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X 3.046300 Y 6.798300 Z -5.309300
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -8.336300 Y 0.000000 Z -14.335000
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.474900 Y 2.144600 Z 1.027900
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Health
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.470400 Y 3.043800 Z 1.012100
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.905000 Y -0.054800 Z -4.646000
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.421000 Y 0.000000 Z 1.075400
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -9.167000 Y 0.012500 Z -15.221900
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -3.370200 Y 2.118200 Z 1.218500
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.440800 Y 1.963800 Z -3.084700
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -12.442400 Y -1.862100 Z -1.240400
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.510600 Y 2.113700 Z 1.107800
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.421000 Y 0.000000 Z 3.148600
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.002
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.421000 Y 0.000000 Z 5.130900
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.003
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.421000 Y 0.000000 Z -0.948500
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.004
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.421000 Y 0.000000 Z -2.930700
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.005
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -1.390200 Y 0.000000 Z 1.097600
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.006
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -3.372500 Y 0.000000 Z 1.098800
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.007
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -9.451800 Y 0.000000 Z 1.102500
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.008
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -7.469600 Y 0.000000 Z 1.101300
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Tree_3.002
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -12.779700 Y -1.862100 Z 6.499800
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -7.488700 Y 2.118200 Z 1.218500
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.362800 Y 2.118200 Z 3.253000
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine.003
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.362800 Y 2.118200 Z -0.671200
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Tank.002
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.440800 Y 1.963800 Z 5.287100
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Tank.003
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -9.625700 Y 1.963800 Z 1.011400
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Tank.004
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -1.255900 Y 1.963800 Z 1.191000
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -5.905000 Y -0.054800 Z 8.200800
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large.003
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X 0.512700 Y -0.054800 Z 2.049700
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large.004
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -12.322600 Y -0.054800 Z 1.505100
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Tree_3.003
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -3.600300 Y -1.862100 Z 6.499800
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Model Detected: Tree_3.004
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -3.263100 Y -1.862100 Z -1.240400
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -6.029200 Y 15.617800 Z 0.409200
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	Location: X -19.005800 Y 6.798300 Z 5.638700
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:50:08 2023] ThreadID[18564]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:50:19 2023] ThreadID[18564]	Start Program.
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Crate
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Health
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:50:19 2023] ThreadID[18564]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 00:53:41 2023] ThreadID[23140]	Start Program.
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Camera Detected: Camera
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Tree_3
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Structure_1
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Crate
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Crate.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Crate.002
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Health
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Container_Small
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: GasCan
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Landmine
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Tank.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 00:53:41 2023] ThreadID[23140]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 01:27:38 2023] ThreadID[48052]	Start Program.
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Camera Detected: Camera
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Tree_3
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Structure_1
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Crate
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Crate.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Crate.002
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Health
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Container_Small
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: GasCan
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Landmine
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Tank.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 01:27:38 2023] ThreadID[48052]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 01:28:52 2023] ThreadID[49012]	Start Program.
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Camera Detected: Camera
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Tree_3
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Structure_1
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Crate
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Crate.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Crate.002
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Health
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Container_Small
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: GasCan
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Landmine
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Tank.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 01:28:52 2023] ThreadID[49012]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 01:50:33 2023] ThreadID[25240]	Start Program.
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Camera Detected: Camera
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Tree_3
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Structure_1
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Crate
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Crate.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Crate.002
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Health
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Container_Small
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: GasCan
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Landmine
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Tank.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 01:50:33 2023] ThreadID[25240]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Thu May 25 01:55:16 2023] ThreadID[18168]	Start Program.
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Camera Detected: Camera
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Camera Detected: Camera.002
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Camera Detected: Camera.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Tree_3
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: BearTrap_Open
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: BrickWall_1
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Structure_1
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Crate
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Crate.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Crate.002
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Health
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Barrier_Large
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Barrier_Large.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Barrier_Large.002
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: BrickWall_1.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: BrickWall_1.002
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: BrickWall_1.003
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Container_Small
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: GasCan
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Landmine
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Tank.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Tree_3.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Landmine.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Landmine.002
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Debris_Pile
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Debris_Pile.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Model Detected: Container_Small.001
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[MESSAGE]	Game Level File Reading Complete.
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[MESSAGE]	Begin Importing .H2B File Data.
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Container_Small.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Crate.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: GasCan.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Health.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Landmine.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Structure_1.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Tank.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[INFO]	H2B Imported: Tree_3.h2b
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Thu May 25 01:55:16 2023] ThreadID[18168]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	Start Program.
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Camera Detected: Camera
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Camera Detected: Camera.002
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Camera Detected: Camera.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Tree_3
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: BearTrap_Open
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: BrickWall_1
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Structure_1
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Crate
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Crate.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Crate.002
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Health
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Barrier_Large
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Barrier_Large.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Barrier_Large.002
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: BrickWall_1.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: BrickWall_1.002
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: BrickWall_1.003
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Container_Small
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: GasCan
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Landmine
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Tank.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Tree_3.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Landmine.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Landmine.002
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Debris_Pile
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Debris_Pile.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Model Detected: Container_Small.001
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Crate.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: GasCan.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Health.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Landmine.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Structure_1.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Tank.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[INFO]	H2B Imported: Tree_3.h2b
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Dec 13 18:53:11 2023] ThreadID[23200]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	Start Program.
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Camera Detected: Camera
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Camera Detected: Camera.002
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Camera Detected: Camera.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Tree_3
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: BearTrap_Open
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: BrickWall_1
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Structure_1
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Crate
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Crate.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Crate.002
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Health
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Barrier_Large
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Barrier_Large.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Barrier_Large.002
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: BrickWall_1.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: BrickWall_1.002
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: BrickWall_1.003
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Container_Small
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: GasCan
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Landmine
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Tank.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Tree_3.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Landmine.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Landmine.002
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Debris_Pile
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Debris_Pile.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Model Detected: Container_Small.001
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Crate.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: GasCan.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Health.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Landmine.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Structure_1.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Tank.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[INFO]	H2B Imported: Tree_3.h2b
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Dec 13 18:54:54 2023] ThreadID[27876]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	Start Program.
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Camera Detected: Camera
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -7.978100 Y 19.089300 Z -1.025000
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Camera Detected: Camera.002
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -23.598101 Y 5.529700 Z 12.363400
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Camera Detected: Camera.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X 3.046300 Y 5.529700 Z -7.187700
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Tree_3
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -9.240400 Y 0.000000 Z 6.261300
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: BearTrap_Open
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -10.045200 Y 0.000000 Z 2.357300
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: BrickWall_1
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -6.600200 Y 0.290100 Z 6.642400
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Structure_1
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -13.139300 Y 0.000000 Z 2.213800
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Crate
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -7.975000 Y 0.000000 Z -1.748000
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Crate.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -8.085400 Y -0.049000 Z -2.526500
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Crate.002
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -8.101000 Y 0.682400 Z -2.104900
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Health
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -11.864400 Y 3.871100 Z 3.208900
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Barrier_Large
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -16.015499 Y 0.000000 Z -4.917600
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Barrier_Large.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -11.386300 Y -0.054800 Z -4.892400
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Barrier_Large.002
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -6.538000 Y -0.054800 Z -4.892400
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: BrickWall_1.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -4.515200 Y 0.000000 Z 6.642400
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: BrickWall_1.002
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -2.481100 Y 0.290100 Z 6.642400
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: BrickWall_1.003
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -0.429700 Y 0.000000 Z 6.642400
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Container_Small
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -0.714400 Y 0.000000 Z 7.872900
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: GasCan
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -9.167000 Y 0.012500 Z 6.028100
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Landmine
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -1.019400 Y 0.000000 Z -0.247900
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Tank.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -1.326100 Y 0.000000 Z -5.355400
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Tree_3.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -15.676000 Y 0.000000 Z -3.777600
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Landmine.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -2.739700 Y 0.000000 Z -2.678100
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Landmine.002
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X 0.508400 Y 0.000000 Z -2.606800
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Debris_Pile
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -1.698200 Y 0.000000 Z 4.433000
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Debris_Pile.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -0.491300 Y 0.000000 Z 3.857200
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Model Detected: Container_Small.001
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	Location: X -7.756200 Y -2.127300 Z 1.547700
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[MESSAGE]	Game Level File Reading Complete.
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[MESSAGE]	Begin Importing .H2B File Data.
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Barrier_Large.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: BearTrap_Open.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: BrickWall_1.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Container_Small.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Crate.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Debris_Pile.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: GasCan.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Health.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Landmine.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Structure_1.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Tank.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[INFO]	H2B Imported: Tree_3.h2b
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Wed Dec 13 18:56:46 2023] ThreadID[5428]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
